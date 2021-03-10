@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Wrysunny的博客</title>
-    <link>https://wrysunny.github.io/categories/</link>
+    <link>https://synology.pub/categories/</link>
     <description>Recent content in Categories on Wrysunny的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://wrysunny.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://synology.pub/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
