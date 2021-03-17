@@ -5,6 +5,25 @@
     <link>https://synology.pub/tags/</link>
     <description>Recent content in Tags on Wrysunny的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://synology.pub/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2021 05:01:38 +0000</lastBuildDate><atom:link href="https://synology.pub/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tagA</title>
+      <link>https://synology.pub/tags/taga/</link>
+      <pubDate>Wed, 10 Mar 2021 05:01:38 +0000</pubDate>
+      
+      <guid>https://synology.pub/tags/taga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tagB</title>
+      <link>https://synology.pub/tags/tagb/</link>
+      <pubDate>Wed, 10 Mar 2021 05:01:38 +0000</pubDate>
+      
+      <guid>https://synology.pub/tags/tagb/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
